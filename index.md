@@ -537,7 +537,7 @@ _Lung cancer or bronchogenic carcinoma refers to tumors originating in the lung 
 </details>
 &nbsp;
 
-Tracheal, bronchus, and lung cancer remains one of the most lethal cancer groups in the United States, historically driven by widespread tobacco use in the 20th century. Today, it continues to be the leading cause of cancer death, though recent decades have seen encouraging declines. Advances in tobacco control, cleaner air standards, and early detection have shifted trends, reducing both risk and mortality. Despite this progress, the disease still imposes a heavy burden, largely tied to modifiable risk factors like smoking and air pollution.
+Tracheal, bronchus, and lung cancer remains one of the most lethal cancer groups in the United States, historically driven by widespread tobacco use in the 20th century. Today, it continues to be a leading cause of cancer death, though recent decades have seen encouraging declines. Advances in tobacco control, cleaner air standards, and early detection have shifted trends, reducing both risk and mortality. Despite this progress, the disease still imposes a heavy burden, largely tied to modifiable risk factors like smoking and air pollution.
 
 From 2010 to 2021, the age-standardized YLL rate dropped from 865 -> 620 per 100k (−28%). That’s one of the steepest declines among major causes of death. At the same time, the absolute YLL burden fell by 6%, from 3.82M -> 3.59M. This means that even with population growth and aging, the toll is shrinking. This is a rare case where both relative and absolute burden improved.
 
