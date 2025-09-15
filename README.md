@@ -64,7 +64,7 @@ If you're not from a healthcare background, start with -> [How To Read This Repo
 
 # United States Burden Of Disease
 
-This report highlights an excerpt of the to the most recent burden of disease study grouped by location (US) and the leading causes of death across all ages (ASMR: Age Standardized Mortality rate) for both men and women.
+This report analyzes the most recent burden of disease study (GBD 2021) grouped by location (US) and the leading causes of death across all ages (ASMR: Age Standardized Mortality rate) for both men and women.
 
 ## **Table of Contents**
 
