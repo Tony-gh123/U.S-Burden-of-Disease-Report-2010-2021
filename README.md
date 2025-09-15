@@ -4,8 +4,7 @@ This project analyzes U.S. mortality trends from 2010 to 2021 using the Global B
 
 If you're not from a healthcare background, start with -> [How To Read This Report](#how-to-read-this-report)
 
-[Return to Portfolio](https://tony-gh123.github.io/yeral.github.io/) <br>
-[View Github Repository](git...)
+[View Portfolio](https://tony-gh123.github.io/yeral.github.io/) <br>
 
 ## Executive Summary
 
