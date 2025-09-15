@@ -219,7 +219,7 @@ _Data extract filtered for United States (FEMALE), 2010–2021 (Global Burden of
 
 # Disease Profiles & Risk Attribution
 
-Each of the diseases outlined above account for the majority of deaths in the US, thus making them an important target of public health policy & strategy. Within each disease there are multivariate reasons as to how they develop, their associated risk exposures, and what we can do to mitigate them. In the following section I uniquely identified each of these diseases, provided a summary from the National Library of Medicine, identified their risk factors and quantified relevant public health metrics.
+Within each of the diseases outlined above, there are multivariate reasons as to how they develop, their associated risk exposures, and what we can do to mitigate them. In the following section I uniquely identified each of these diseases, provided a summary from the National Library of Medicine, identified their risk factors and quantified relevant public health metrics.
 
 ## Cardiovascular diseases
 

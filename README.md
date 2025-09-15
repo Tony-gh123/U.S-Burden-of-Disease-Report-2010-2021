@@ -214,7 +214,7 @@ _Data extract filtered for United States (FEMALE), 2010–2021 (Global Burden of
 
 # Disease Profiles & Risk Attribution
 
-Each of the diseases outlined above account for the majority of deaths in the US, thus making them an important target of public health policy & strategy. Within each disease there are multivariate reasons as to how they develop, their associated risk exposures, and what we can do to mitigate them. In the following section I uniquely identified each of these diseases, provided a summary from the National Library of Medicine, identified their risk factors and quantified relevant public health metrics.
+Within each of the diseases outlined above, there are multivariate reasons as to how they develop, their associated risk exposures, and what we can do to mitigate them. In the following section I uniquely identified each of these diseases, provided a summary from the National Library of Medicine, identified their risk factors and quantified relevant public health metrics.
 
 ## Cardiovascular diseases
 
@@ -341,9 +341,9 @@ _Hypertensive heart disease (HHD) refers to a constellation of structural and fu
 </details>
 &nbsp;
 
-Hypertensive heart disease (HHD) develops as a long-term complication of chronic high blood pressure. Unlike ischemic heart disease, which results from blocked coronary arteries, HHD stems from the heart’s constant struggle against elevated pressure, leading to structural remodeling, thickened walls, and eventual heart failure. Though less recognized by the public, it represents a major and growing burden, closely tied to the global epidemic of hypertension.
+Hypertensive heart disease (HHD) develops as a long-term complication of chronic high blood pressure. Unlike ischemic heart disease, which results from blocked coronary arteries, HHD stems from the heart’s constant struggle against elevated pressure, leading to structural remodeling, thickened walls, and eventual heart failure.
 
-From 2010 to 2021, the age-standardized YLL rate rose from 208 -> 245 per 100k (+18%). At the same time, the absolute life years lost grew by 42%, from 0.91M -> 1.29M. That means more people are dying prematurely from heart damage caused directly by chronic high blood pressure.
+From 2010 to 2021, the age-standardized YLL rate rose from 208 -> 245 per 100k (+18%). At the same time, the absolute life years lost grew by 42%, from 0.91M -> 1.29M. That means more people are dying prematurely from heart damage caused by hypertensive heart disease.
 
 What’s striking is how little the GBD framework can currently attribute to specific risk factors beyond the obvious: elevated blood pressure itself. One modeled factor, non-optimal temperature, shows only weak evidence. In other words: the very thing that defines hypertension, uncontrolled high systolic and diastolic blood pressure, is also the main driver of HHD. 
 
