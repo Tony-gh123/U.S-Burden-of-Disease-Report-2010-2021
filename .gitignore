@@ -1,0 +1,32 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite databases
+*.sqlite
+*.db
+
+# Excel files
+*.xlsx
+
+# CSV files
+*.csv
+
+
+# Config / secrets
+.env
+
+# VS Code
+.vscode/
