@@ -1,6 +1,6 @@
 # Tracking U.S. Mortality (2010–2021): Causes, Risks, and Policy Insights. 
 
-This project analyzes U.S. mortality trends from 2010 to 2021 using the Global Burden of Disease (GBD 2021) dataset, focusing on age-standardized mortality rates (ASMR), leading causes of death, and associated risk factors.
+This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021) dataset, focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
 
 If you're not from a healthcare background, start with -> [How To Read This Report](#how-to-read-this-report)
 
@@ -50,8 +50,8 @@ _Date Published: September 15, 2025._
 
 ### Sex-Specific Insights:
 
-- In 2021, men faced higher mortality from prostate cancer and opioid use disorders.
-- In 2021, women were disproportionately affected by breast cancer, hypertensive heart disease, and Alzheimer’s/dementia.
+- Men faced higher mortality from prostate cancer and opioid use disorders.
+- Women were disproportionately affected by breast cancer, hypertensive heart disease, and Alzheimer’s/dementia.
 
 ### What this means for policy & practice
 
@@ -67,7 +67,7 @@ _Date Published: September 15, 2025._
 
 # United States Burden Of Disease
 
-This report analyzes the most recent burden of disease study (GBD 2021) grouped by location (US) and the leading causes of death across all ages (ASMR: Age Standardized Mortality rate) for both men and women.
+This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021) dataset, focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
 
 ## **Table of Contents**
 
