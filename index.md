@@ -16,7 +16,7 @@ If you're not from a healthcare background, start with -> [How To Read This Repo
 
 ### Leading Causes of Mortality in the U.S. (2021)
 
-- Ischemic heart disease: #1 cause of mortality with 493,159 deaths (ASMR: 78.9), down 16.5% since 2010.
+- Ischemic heart disease: 493,159 deaths (ASMR: 78.9), down 16.5% since 2010.
 - COVID-19: 483,557 deaths (ASMR: 86.1), a major surge in 2021.
 - Alzheimer’s/dementia: 198,341 deaths (ASMR: 29.2), unchanged since 2010.
 - COPD: 198,013 deaths (ASMR: 31.3), down 5.3%.
@@ -52,8 +52,8 @@ If you're not from a healthcare background, start with -> [How To Read This Repo
 
 ### Sex-Specific Insights:
 
-- In 2021, men faced higher mortality from prostate cancer and opioid use disorders.
-- In 2021, women were disproportionately affected by breast cancer, hypertensive heart disease, and Alzheimer’s/dementia.
+- Men faced higher mortality from prostate cancer and opioid use disorders.
+- Women were disproportionately affected by breast cancer, hypertensive heart disease, and Alzheimer’s/dementia.
 
 ### What this means for policy & practice
 
@@ -861,7 +861,7 @@ Below is an excerpt outlining the percent change of each risk exposure mentioned
 
 6. Rajashekar D, Liang JW. Intracerebral Hemorrhage. [Updated 2023 Feb 6]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK553103/ 
 
-7. https://www.who.int/health-topics/coronavirus#tab=tab_1 
+7. World Health Organization. “Coronavirus Disease (COVID-19).” World Health Organization, 2025, www.who.int/health-topics/coronavirus#tab=tab_1. 
 
 8. Kumar A, Sidhu J, Lui F, et al. Alzheimer Disease. [Updated 2024 Feb 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK499922/ 
 
