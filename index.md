@@ -12,6 +12,8 @@ If you're not from a healthcare background, start with -> [How To Read This Repo
 [Return to Portfolio](https://tony-gh123.github.io/yeral.github.io/) <br>
 [View Github Repository](https://github.com/Tony-gh123/Tracking-US-Mortality-2010-2021)
 
+_By Antony Guillen Hernandez, September 15, 2025._
+
 ## Executive Summary
 
 ### Leading Causes of Mortality in the U.S. (2021)
