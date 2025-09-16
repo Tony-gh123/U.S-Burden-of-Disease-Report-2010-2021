@@ -5,7 +5,7 @@ title: Home
 
 # Tracking U.S. Mortality (2010–2021): Causes, Risks, and Policy Insights. 
 
-This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021), focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
+This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021) dataset, focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
 
 If you're not from a healthcare background, start with -> [How To Read This Report](#how-to-read-this-report)
 
