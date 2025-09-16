@@ -12,7 +12,7 @@ If you're not from a healthcare background, start with -> [How To Read This Repo
 ### Leading Causes of Mortality in the U.S. (2021)
 
 - Ischemic heart disease: #1 cause of mortality with 493,159 deaths (ASMR: 78.9), down 16.5% since 2010.
-- COVID-19: #2 cause with 483,557 deaths (ASMR: 86.1), a major surge in 2021.
+- COVID-19: 483,557 deaths (ASMR: 86.1), a major surge in 2021.
 - Alzheimer’s/dementia: 198,341 deaths (ASMR: 29.2), unchanged since 2010.
 - COPD: 198,013 deaths (ASMR: 31.3), down 5.3%.
 - Lung cancer: 175,469 deaths (ASMR: 28.9), down 25.4%.
