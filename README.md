@@ -5,25 +5,40 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 If you're not from a healthcare background, start with -> [How To Read This Report](#how-to-read-this-report)
 
 [View Portfolio](https://tony-gh123.github.io/yeral.github.io/) <br>
-[View Project Here](https://tony-gh123.github.io/Tracking-US-Mortality-2010-2021/)
+[View Project](https://tony-gh123.github.io/Tracking-US-Mortality-2010-2021/)
 
 _By Antony Guillen Hernandez._ <br>
 _Date Published: September 15, 2025._
 
 ## Executive Summary
 
-### Leading Causes of Mortality in the U.S. (2021)
+### Leading Causes of Mortality in the U.S. and Trends (2010-2021)
 
-- Ischemic heart disease: 493,159 deaths (ASMR: 78.9), down 16.5% since 2010.
-- COVID-19: 483,557 deaths (ASMR: 86.1), a major surge in 2021.
-- Alzheimer’s/dementia: 198,341 deaths (ASMR: 29.2), unchanged since 2010.
-- COPD: 198,013 deaths (ASMR: 31.3), down 5.3%.
-- Lung cancer: 175,469 deaths (ASMR: 28.9), down 25.4%.
-- Ischemic stroke: 115,534 deaths (ASMR: 17.3), up 3.7%.
-- Colorectal cancer: 75,082 deaths (ASMR: 12.8), down 12.5%.
-- Type 2 diabetes: 70,708 deaths (ASMR: 11.8), down 16.5%.
+- Ischemic heart disease: 493,159 deaths (ASMR: 78.9), down 16.5%.
+
+- COVID-19: 483,557 deaths (ASMR: 86.1), new.
+
+- Alzheimer’s disease and other dementias: 198,341 deaths (ASMR: 29.2), down 0.9%.
+
+- Chronic obstructive pulmonary disease (COPD): 198,013 deaths (ASMR: 31.3), down 5.3%.
+
+- Tracheal, bronchus, and lung cancer: 175,469 deaths (ASMR: 28.9), down 25.4%.
+
+- Ischemic stroke: 115,534 deaths (ASMR: 17.3), up 3.6%.
+
+- Colon and rectum cancer: 75,082 deaths (ASMR: 12.8), down 12.5%.
+
+- Diabetes mellitus type 2: 70,708 deaths (ASMR: 11.8), down 16.5%.
+
 - Hypertensive heart disease: 68,682 deaths (ASMR: 11.4), up 22.3%.
+
 - Intracerebral hemorrhage: 58,167 deaths (ASMR: 9.7), down 11.1%.
+
+- Opioid use disorders: 55,454 deaths (ASMR: 15.4), up 114.8%.
+
+- Breast cancer: 53,471 deaths (ASMR: 9.4), down 12.7%.
+
+- Prostate cancer: 44,029 deaths (ASMR: 6.9), down 6.9%.
 
 <br>
 
@@ -31,26 +46,19 @@ _Date Published: September 15, 2025._
 
 <br>
 
-### Mortality Trends 2010–2021
-
-- Declines in lung cancer (-25.4%), ischemic heart disease (-16.5%), type 2 diabetes (-16.5%), colorectal cancer (-12.5%), and intracerebral hemorrhage (-11.1%) reflect successful prevention.
-- Increases in hypertensive heart disease (+22.3%), ischemic stroke (+3.7%), and opioid use disorder (+112% YLLs) signal urgent public health challenges.
-- ASMR often fell, but total deaths/YLLs rose due to population growth and aging (e.g., ischemic heart disease YLLs: 8.02M to 8.53M, +6.4%)
+<img src="images/asmr_percent_change.png" width="900">
 
 <br>
 
-<img src="images/mortality_percent_change.png" width="900">
+### Risk Factor Trends (2010–2021):
 
-<br>
+- Improving: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
 
-### Risk Factor Trends (SEV Percent Change, 2010–2021):
-
-- Improving: Particulate matter pollution (-39%), smoking (-15%), LDL cholesterol (-3%).
-- Worsening: High systolic blood pressure (+39%), high fasting plasma glucose (+16%), high BMI (+7.8%), low physical activity (+20% in men).
+- Worsening: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
 
 ### Sex-Specific Insights:
 
-- Men faced higher mortality from prostate cancer and opioid use disorders.
+- Men faced higher mortality from lung cancer, prostate cancer and opioid use disorders.
 - Women were disproportionately affected by breast cancer, hypertensive heart disease, and Alzheimer’s/dementia.
 
 ### What this means for policy & practice
@@ -65,7 +73,7 @@ _Date Published: September 15, 2025._
 
 <br>
 
-# United States Burden Of Disease
+# United States Burden of Disease
 
 This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021) dataset, focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
 
@@ -100,21 +108,26 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 
 ## How To Read This Report
 
-**Data**: Global Burden of Disease (GBD 2021) US estimates, 2010–2021.
+**Data Source**: Global Burden of Disease (GBD 2021) US estimates, 2010–2021.
 
 **Metrics**: 
-- **ASMR**: Age-Standardized Mortality Rate (deaths per 100k; age-standardized). Use for trend/risk comparisons.
-- **total_deaths**: All-age deaths (not age-standardized). Use for burden/capacity planning.
-- **YLLs**: Years of Life Lost (counts). Captures premature mortality.
-- **YLL rate**: YLLs per 100k (age-standardized). Use for trend/risk comparisons.
-- **DALYs**: Disability-Adjusted Life Years (YLLs + years lived with disability).
-- **SEV**: Summary Exposure Value; population exposure × risk strength (reporting % change 2010→2021).
 
-**Using rates vs counts**: Use rates (ASMR, YLL rate) to compare risk over time and between groups because they adjust for age structure. Use counts (all-age deaths, total YLLs) to plan for burden (workforce, beds, budgets).
+- **ASMR (Age-Standardized Mortality Rate)**: Deaths per 100k people, adjusted for age. 
+   _Example: Comparing 2010 vs 2021 heart disease risk without being skewed by an older population._
+
+- **Total Deaths**: The raw number of people who died. _Useful for planning hospital beds, workforce, budgets._
+
+- **YLLs (Years of Life Lost)**: Total years of life cut short by early death. _Example: If someone dies at 50 instead of 80, that’s 30 YLLs._ 
+
+- **YLL rate**: YLLs per 100k, age-adjusted. _Helps compare premature death burden across time and groups._
+
+- **DALYs (Disability-Adjusted Life Years)**: YLLs + years lived with disability. _Captures both early death and time spent in poor health._
+
+- **SEV (Summary Exposure Value)**: How much of the population is exposed to a risk × how strong that risk is. Reported as % change between 2010–2021.
 
 **Risk attribution**: Risk–outcome links follow GBD’s comparative risk assessment. Evidence strength is reported via Risk-Outcome Score (ROS)/stars.
 
-**Uncertainty**: Estimates include 95% uncertainty intervals (UIs). When UIs overlap, differences should be interpreted with caution.
+**Uncertainty**: Estimates include 95% uncertainty intervals (UIs). When UIs overlap, differences should be interpreted with caution. _Example: Ischemic heart disease 2021 ASMR = 78.91, but the 95% uncertainty range is (69.67–83.78)._
 
 **PAF Tables**: _Population Attributable Fractions_ (PAFs) represent the proportion of disease burden that could be prevented if specific risk exposures were eliminated. PAFs are model-based and generally do not sum to 100% of disease burden.
 
@@ -134,37 +147,53 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 
 Key Highlights: 
 
-- Ischemic heart disease has fallen 16.5% from 2010 to 2021. Still the top reason of mortality for both men and women.
-- COVID-19 pandemic took a staggering 483,357 people in 2021 alone, making it the second reason of mortality in 2021.
-- Alzheimer's disease and dementia have remained unchanged from 2010 to 2021, indicating room for improvement.
-- Although COPD has decreased 5.3%, it signals room for improvement.
-- Tracheal, Bronchus, and Lung Cancer has fallen 25.4%, reflecting effective public health measures.
-- Ischemic Stroke has risen by 3.7%, indicating rising exposure to risk factors.
-- Colon Cancer has been reduced 12.5%.
-- Diabetes Type 2 has been reduced 16.5%.
-- Hypertensive heart disease has increased a staggering 22.3%, a serious public health concern that warrants increased surveillance and control efforts.
-- Intracerebral hemorrhage has decreased 11.1%, demonstrating working mitigation strategies.
+- Ischemic heart disease: 493,159 deaths (ASMR: 78.9), down 16.5%.
 
-| cause                                   | 2010 (ASMR)          | 2021 (ASMR)         | total_deaths_2021            | Type                        |   Rank |
-|----------------------------------------|---------------------|:--------------------|:-----------------------------|:----------------------------|-------:|
-| Ischemic heart disease                  | 94.47 (83.20-100.09) | 78.91 (69.67-83.78) | 493159.3 (429792.2-526475.9) | Cardiovascular disease      |      1 |
-| COVID-19                                | 0.00 (0.00-0.00)     | 86.13 (84.42-87.86) | 483557.0 (474047.7-493138.1) | Infectious disease          |      2 |
-| Alzheimer's disease and other dementias | 29.49 (7.47-74.34)   | 29.22 (7.43-73.30)  | 198341.2 (50556.0-496323.7)  | Neurodegenerative disease   |      3 |
-| Chronic obstructive pulmonary disease   | 33.07 (29.33-34.85)  | 31.31 (27.65-33.18) | 198013.3 (173659.8-210420.3) | Chronic respiratory disease |      4 |
-| Tracheal, bronchus, and lung cancer     | 38.80 (36.02-40.31)  | 28.94 (26.55-30.40) | 175469.3 (159995.5-184719.0) | Cancer                      |      5 |
-| Ischemic stroke                         | 16.72 (13.80-18.23)  | 17.33 (14.24-18.93) | 115533.7 (94307.1-126700.0)  | Cardiovascular disease      |      6 |
-| Colon and rectum cancer                 | 14.62 (13.32-15.37)  | 12.79 (11.66-13.51) | 75082.2 (67503.9-79684.8)    | Cancer                      |      7 |
-| Diabetes mellitus type 2                | 14.15 (12.86-14.89)  | 11.81 (10.75-12.49) | 70707.6 (63673.6-74999.5)    | Metabolic disease           |      8 |
-| Hypertensive heart disease              | 9.29 (8.26-9.80)     | 11.36 (9.85-12.64)  | 68682.2 (58474.5-76752.8)    | Cardiovascular disease      |      9 |
-| Intracerebral hemorrhage                | 10.90 (9.82-11.48)   | 9.69 (8.73-10.25)   | 58166.7 (51856.8-61719.0)    | Cardiovascular disease      |     10 |
+- COVID-19: 483,557 deaths (ASMR: 86.1), new.
+
+- Alzheimer’s disease and other dementias: 198,341 deaths (ASMR: 29.2), down 0.9%.
+
+- Chronic obstructive pulmonary disease (COPD): 198,013 deaths (ASMR: 31.3), down 5.3%.
+
+- Tracheal, bronchus, and lung cancer: 175,469 deaths (ASMR: 28.9), down 25.4%.
+
+- Ischemic stroke: 115,534 deaths (ASMR: 17.3), up 3.6%.
+
+- Colon and rectum cancer: 75,082 deaths (ASMR: 12.8), down 12.5%.
+
+- Diabetes mellitus type 2: 70,708 deaths (ASMR: 11.8), down 16.5%.
+
+- Hypertensive heart disease: 68,682 deaths (ASMR: 11.4), up 22.3%.
+
+- Intracerebral hemorrhage: 58,167 deaths (ASMR: 9.7), down 11.1%.
+
+- Opioid use disorders: 55,454 deaths (ASMR: 15.4), up 114.8%.
+
+- Breast cancer: 53,471 deaths (ASMR: 9.4), down 12.7%.
+
+- Prostate cancer: 44,029 deaths (ASMR: 6.9), down 6.9%.
+
+| cause                                   | 2010 (ASMR)          | 2021 (ASMR)         | total_deaths_2021            | total_deaths_2010            | Type                        |   Rank |
+|:----------------------------------------|:---------------------|:--------------------|:-----------------------------|:-----------------------------|:----------------------------|-------:|
+| Ischemic heart disease                  | 94.47 (83.20-100.09) | 78.91 (69.67-83.78) | 493159.3 (429792.2-526475.9) | 465668.8 (403900.5-496118.9) | Cardiovascular disease      |      1 |
+| COVID-19                                | 0.00 (0.00-0.00)     | 86.13 (84.42-87.86) | 483557.0 (474047.7-493138.1) | 0.0 (0.0-0.0)                | Infectious disease          |      2 |
+| Alzheimer's disease and other dementias | 29.49 (7.47-74.34)   | 29.22 (7.43-73.30)  | 198341.2 (50556.0-496323.7)  | 157783.0 (39943.7-395503.3)  | Neurodegenerative disease   |      3 |
+| Chronic obstructive pulmonary disease   | 33.07 (29.33-34.85)  | 31.31 (27.65-33.18) | 198013.3 (173659.8-210420.3) | 160177.8 (140567.6-169550.5) | Chronic respiratory disease |      4 |
+| Tracheal, bronchus, and lung cancer     | 38.80 (36.02-40.31)  | 28.94 (26.55-30.40) | 175469.3 (159995.5-184719.0) | 177100.5 (163380.3-184527.1) | Cancer                      |      5 |
+| Ischemic stroke                         | 16.72 (13.80-18.23)  | 17.33 (14.24-18.93) | 115533.7 (94307.1-126700.0)  | 88498.7 (72345.1-96860.7)    | Cardiovascular disease      |      6 |
+| Colon and rectum cancer                 | 14.62 (13.32-15.37)  | 12.79 (11.66-13.51) | 75082.2 (67503.9-79684.8)    | 68271.4 (61467.6-72075.5)    | Cancer                      |      7 |
+| Diabetes mellitus type 2                | 14.15 (12.86-14.89)  | 11.81 (10.75-12.49) | 70707.6 (63673.6-74999.5)    | 66941.9 (60132.4-70738.1)    | Metabolic disease           |      8 |
+| Hypertensive heart disease              | 9.29 (8.26-9.80)     | 11.36 (9.85-12.64)  | 68682.2 (58474.5-76752.8)    | 44540.9 (38959.0-47305.9)    | Cardiovascular disease      |      9 |
+| Intracerebral hemorrhage                | 10.90 (9.82-11.48)   | 9.69 (8.73-10.25)   | 58166.7 (51856.8-61719.0)    | 51183.7 (45422.2-54168.1)    | Cardiovascular disease      |     10 |
+| Opioid use disorders                    | 7.16 (6.84-7.51)     | 15.38 (13.63-17.30) | 55454.0 (48758.5-62835.3)    | 24445.8 (23346.0-25598.4)    | Substance use disorder      |     11 |
+| Breast cancer                           | 10.78 (9.76-11.29)   | 9.41 (8.53-9.94)    | 53471.4 (47803.3-56779.9)    | 48952.1 (43822.2-51538.5)    | Cancer                      |     12 |
+| Prostate cancer                         | 7.42 (6.75-7.77)     | 6.91 (6.21-7.32)    | 44029.0 (39312.3-46747.1)    | 36514.7 (32885.0-38332.1)    | Cancer                      |     13 |
 
 _Data extract filtered for United States, 2010–2021 (Global Burden of Disease Collaborative Network, 2024). Derived Type & Rank features_
 
-<img src="images/change_asmr_both.png" width="900">
-
 ## Sex Differences in Mortality
 
-- Males in the US share the same leading causes as females, but rankings differ. We observe that Lung Cancers has increased, and that Prostate Cancer & Opioid Use Disorder makes it to this list.
+- Males in the US share the same leading causes as females, but rankings differ. We observe that Lung Cancers has increased in ranking, and that Prostate Cancer & Opioid Use Disorder makes it to this list.
 
 - Among females, Alzheimer’s disease ranks in the top three alongside ischemic heart disease and COVID-19. This pattern is consistent with sex and age-structure differences in dementia incidence and survival. Hypertensive heart disease also appears in the female top 10. 
 
@@ -217,7 +246,7 @@ _Data extract filtered for United States (FEMALE), 2010–2021 (Global Burden of
 
 # Disease Profiles & Risk Attribution
 
-Within each of the diseases outlined above, there are multivariate reasons as to how they develop, their associated risk exposures, and what we can do to mitigate them. In the following section I uniquely identified each of these diseases, provided a summary from the National Library of Medicine, identified their risk factors and quantified relevant public health metrics.
+Within each of the cause-specific mortality outlined above, there are multivariate reasons as to how they develop, their associated risk exposures, and what we can do to mitigate them. In the following section I uniquely identified each of these diseases, provided a summary from the National Library of Medicine, identified their risk factors and quantified relevant public health metrics.
 
 ## Cardiovascular diseases
 
@@ -232,9 +261,7 @@ _Ischemia is defined as inadequate blood supply (circulation) to a local area du
 </details>
 &nbsp;
 
-Ischemic heart disease (IHD), also called coronary artery disease, is the leading cause of death in the United States and worldwide. It arises when narrowed coronary arteries restrict blood flow to the heart muscle, depriving it of oxygen. The condition can remain silent for years but often culminates in heart attacks or chronic heart failure, making it one of the most devastating and costly public health challenges. While prevention and treatment have improved survival over the past decades, the burden remains immense due to the sheer scale of the disease and the prevalence of its risk factors.
-
-Between 2010 and 2021, the age-standardized rate of YLLs fell from 1,749 to 1,490 per 100k (−15%). That means that, adjusted for age, fewer people are dying young from heart disease than a decade ago. But here’s the catch: because the population grew and aged, the absolute number of life years lost actually increased (8M -> 8.5M). In other words, prevention is working, but the burden is still massive.
+Ischemic heart disease (IHD), also called coronary artery disease, is the leading cause of death in the United States and worldwide. It arises when narrowed coronary arteries restrict blood flow to the heart muscle, depriving it of oxygen. The condition can remain silent for years but often culminates in heart attacks or chronic heart failure, making it one of the most devastating and costly public health challenges. While prevention and treatment have improved survival over the past decades, the burden remains immense due to the sheer scale of the disease and the prevalence of its risk factors. Between 2010 and 2021, the age-standardized YLL rate fell from 1,749 → 1,490 per 100k (−15%).
 
 So what’s driving IHD? 
 
@@ -291,9 +318,7 @@ _Strokes are classified as ischemic or hemorrhagic, with hemorrhagic strokes fur
 </details>
 &nbsp;
 
-Stroke is the fifth leading cause of death in the US, and ischemic strokes, caused by blocked blood flow to the brain, make up the vast majority of cases. Unlike ischemic heart disease, which has been trending downward, stroke has quietly inched upward.
-
-From 2010 to 2021, the age-standardized YLL rate rose from 216 -> 231 per 100k (+7%). More striking, the absolute years of life lost jumped by 36%, from 1.08M -> 1.47M, reflecting a growing burden in at-risk populations.
+Stroke is the fifth leading cause of death in the US, and ischemic strokes, caused by blocked blood flow to the brain, make up the vast majority of cases. Unlike ischemic heart disease, which has been trending downward, stroke has quietly inched upward. Between 2010 and 2021, the age-standardized YLL rate increased from 216 → 231 per 100k (+7%).
 
 So what’s behind the increase? GBD highlights a mix of metabolic and behavioral drivers:
 
@@ -309,7 +334,7 @@ So what’s behind the increase? GBD highlights a mix of metabolic and behaviora
 | High fasting plasma glucose | Ischaemic stroke |                 0.15 |             3 | 12400  (9590 to 15400)      | Metabolic   |
 | Diet low in fruits          | Ischaemic stroke |                 0.15 |             3 | 2060  (1090 to 3270)        | Behavioural |
 
-The GBD model estimates that over three-quarters of ischemic stroke burden (78%) can be explained by these preventable risks. That’s a powerful signal: strokes are not just bad luck, they’re often the cumulative product of lifestyle and metabolic exposure.
+The GBD model estimates that over three-quarters of ischemic stroke burden (78%) can be explained by these preventable risks.
 
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
@@ -344,11 +369,9 @@ _Hypertensive heart disease (HHD) refers to a constellation of structural and fu
 </details>
 &nbsp;
 
-Hypertensive heart disease (HHD) develops as a long-term complication of chronic high blood pressure. Unlike ischemic heart disease, which results from blocked coronary arteries, HHD stems from the heart’s constant struggle against elevated pressure, leading to structural remodeling, thickened walls, and eventual heart failure.
+Hypertensive heart disease (HHD) develops as a long-term complication of chronic high blood pressure. Unlike ischemic heart disease, which results from blocked coronary arteries, HHD stems from the heart’s constant struggle against elevated pressure, leading to structural remodeling, thickened walls, and eventual heart failure. From 2010 to 2021, the age-standardized YLL rate rose from 208 -> 245 per 100k (+18%). 
 
-From 2010 to 2021, the age-standardized YLL rate rose from 208 -> 245 per 100k (+18%). At the same time, the absolute life years lost grew by 42%, from 0.91M -> 1.29M. That means more people are dying prematurely from heart damage caused by hypertensive heart disease.
-
-What’s striking is how little the GBD framework can currently attribute to specific risk factors beyond the obvious: elevated blood pressure itself. One modeled factor, non-optimal temperature, shows only weak evidence. In other words: the very thing that defines hypertension, uncontrolled high systolic and diastolic blood pressure, is also the main driver of HHD. 
+The GBD framework does not currently attribute HHD to specific risk factors beyond elevated blood pressure itself. One modeled factor, non-optimal temperature, shows only weak evidence.
 
 | Risk Name               | Outcome Name               |   Risk-Outcome Score |   Star Rating | 2021 DALYS (in thousands)   | Risk Type                   |
 |:------------------------|:---------------------------|---------------------:|--------------:|:----------------------------|:----------------------------|
@@ -379,9 +402,7 @@ _Intracerebral hemorrhage (ICH), a subtype of stroke, is a devastating condition
 </details>
 &nbsp;
 
-Intracerebral hemorrhage (ICH), bleeding directly into the brain tissue, is one of the most lethal forms of stroke, often leaving little time for effective intervention. Outcomes for ICH are generally poorer, making prevention the critical line of defense.
-
-From 2010 to 2021, the age-standardized YLL rate declined from 235 -> 210 per 100k (−11%), signaling modest progress. Yet, because of an aging population, the absolute years of life lost still rose, from 1.03M -> 1.15M. Individual risk has improved, but total burden remains high.
+Intracerebral hemorrhage (ICH), bleeding directly into the brain tissue, is one of the most lethal forms of stroke, often leaving little time for effective intervention. Outcomes for ICH are generally poorer, making prevention the critical line of defense. From 2010 to 2021, the age-standardized YLL rate declined from 235 -> 210 per 100k (−11%).
 
 When it comes to risk factors, the evidence is weak. GBD identifies several contributors with only low to weak evidence, including:
 
@@ -443,7 +464,7 @@ _Dementia is a general term used to describe a significant decline in cognitive 
 
 Alzheimer’s disease and related dementias are not sudden killers like stroke or heart attack, they are slow, progressive conditions that erode memory, judgment, and independence over years. While dementia itself rarely appears as the “immediate cause” of death, it greatly increases vulnerability to infections, falls, and other complications that ultimately shorten life.
 
-In 2021, dementia accounted for an age-standardized YLL rate of 356 per 100k, nearly unchanged since 2010 (−1%). Absolute years of life lost increased by 27%, from 1.85M -> 2.34M. This rise is driven almost entirely by population aging, as more Americans live longer, more enter the age brackets where dementia is common. For women, who generally outlive men, dementia ranks even higher among causes of death.
+In 2021, dementia accounted for an age-standardized YLL rate of 356 per 100k, unchanged since 2010 (−1%). Absolute years of life lost increased by 27%, from 1.85M -> 2.34M. This rise is driven almost entirely by population aging, as more Americans live longer, more enter the age brackets where dementia is common. For women, who generally outlive men, dementia ranks even higher among causes of death.
 
 When it comes to causes, science is still catching up. The GBD framework shows only weak evidence for known risks:
 
@@ -483,9 +504,7 @@ _Chronic obstructive pulmonary disease (COPD) is a common and treatable disease 
 </details>
 &nbsp;
 
-Chronic obstructive pulmonary disease (COPD) is often called a “smoker’s disease,” but it’s more accurately the long-term scarring of the lungs from years of exposure to cigarettes, polluted air, and other noxious particles. Once damage accumulates, it limits airflow permanently, leaving many patients struggling with breathlessness, recurrent infections, and in severe cases, respiratory failure.
-
-From 2010 to 2021, the age-standardized YLL rate fell from 584 -> 551 per 100k (−6%). That’s modest progress, signaling that prevention efforts are paying off. Yet the total life years lost still grew by 24% (from 2.7M -> 3.3M) as the US population aged and more people lived into the risk window for COPD.
+Chronic obstructive pulmonary disease (COPD) is often called a “smoker’s disease,” but it’s more accurately the long-term scarring of the lungs from years of exposure to cigarettes, polluted air, and other noxious particles. Once damage accumulates, it limits airflow permanently, leaving many patients struggling with breathlessness, recurrent infections, and in severe cases, respiratory failure. From 2010 to 2021, the age-standardized YLL rate fell from 584 → 551 per 100k (−6%).
 
 The risk profile for COPD is clear:
 
@@ -521,7 +540,7 @@ Together, these exposures explain more than half of COPD deaths and DALYs in the
 
 ## Cancers
 
-### **Tracheal, bronchus, and lung cancer**
+### **Tracheal, Bronchus, and Lung Cancer**
 
 <details markdown="1">
   <summary>View Medical Definition</summary>
@@ -535,9 +554,7 @@ _Lung cancer or bronchogenic carcinoma refers to tumors originating in the lung 
 </details>
 &nbsp;
 
-Tracheal, bronchus, and lung cancer remains one of the most lethal cancer groups in the United States, historically driven by widespread tobacco use in the 20th century. Today, it continues to be a leading cause of cancer death, though recent decades have seen encouraging declines. Advances in tobacco control, cleaner air standards, and early detection have shifted trends, reducing both risk and mortality. Despite this progress, the disease still imposes a heavy burden, largely tied to modifiable risk factors like smoking and air pollution.
-
-From 2010 to 2021, the age-standardized YLL rate dropped from 865 -> 620 per 100k (−28%). That’s one of the steepest declines among major causes of death. At the same time, the absolute YLL burden fell by 6%, from 3.82M -> 3.59M. This means that even with population growth and aging, the toll is shrinking. This is a rare case where both relative and absolute burden improved.
+Tracheal, Bronchus, and Lung Cancer remains one of the most lethal cancer groups in the United States, historically driven by widespread tobacco use in the 20th century. Today, it continues to be a leading cause of cancer death, though recent decades have seen encouraging declines. Advances in tobacco control, cleaner air standards, and early detection have shifted trends, reducing both risk and mortality. Despite this progress, the disease still imposes a heavy burden, largely tied to modifiable risk factors like smoking and air pollution. From 2010 to 2021, the age-standardized YLL rate dropped from 865 → 620 per 100k (−28%).
 
 The drivers are clear and well-documented:
 
@@ -586,9 +603,7 @@ _Most colon cancer is sporadic, and approximately 5 percent are due to an inheri
 </details>
 &nbsp;
 
-Colon and rectum cancer (CRC) is the third most commonly diagnosed cancer in the United States and the second leading cause of cancer death. Most cases develop sporadically over a decade or more, through the gradual progression from benign polyps to invasive cancer, though a small fraction arise from inherited syndromes such as Lynch syndrome or familial adenomatous polyposis. Because the disease develops slowly, timely screening and early removal of precancerous lesions are key to reducing mortality.
-
-From 2010 to 2021, the age-standardized YLL rate fell from 327 -> 295 per 100k (−10%), suggesting progress in screening and treatment. The absolute years of life lost rose from 1.44M -> 1.58M (+10%). CRC remains the second deadliest cancer in the US, underscoring the need for both prevention and early detection.
+Colon and rectum cancer (CRC) is the third most commonly diagnosed cancer in the United States and the second leading cause of cancer death. Most cases develop sporadically over a decade or more, through the gradual progression from benign polyps to invasive cancer, though a small fraction arise from inherited syndromes such as Lynch syndrome or familial adenomatous polyposis. Because the disease develops slowly, timely screening and early removal of precancerous lesions are key to reducing mortality. From 2010 to 2021, the age-standardized YLL rate fell from 327 → 295 per 100k (−10%), suggesting progress in screening and treatment.
 
 Key drivers are linked to diet and lifestyle:
 
@@ -645,9 +660,7 @@ _Prostate cancer is an adenocarcinoma as it develops primarily from the glandula
 </details>
 &nbsp;
 
-Prostate cancer is one of the most common cancers affecting men worldwide and a leading cause of cancer-related death in the United States. While it often remains localized and slow-growing for many years, advanced cases can metastasize, particularly to the bones and lymph nodes, leading to significant health burden. Despite its prevalence, the precise risk factors behind prostate cancer are not fully understood, which complicates prevention strategies.
-
-According to the (Global Burden of Disease Collaborative Network, 2024) Prostate Cancer accounts for 114 YLL rate across 2021. The table below shows an overall reduction from 123 YLLs to 114 YLLs, meaning the risk per person has decreased throughout the years.
+Prostate cancer is one of the most common cancers affecting men worldwide and a leading cause of cancer-related death in the United States. While it often remains localized and slow-growing for many years, advanced cases can metastasize, particularly to the bones and lymph nodes, leading to significant health burden. Despite its prevalence, the precise risk factors behind prostate cancer are not fully understood, which complicates prevention strategies. From 2010 to 2021, the age-standardized YLL rate fell from 123 → 114 per 100k (−7%), suggesting progress in screening and treatment.
 
 Unfortunately the risk factors associated with Prostate Cancer are yet not fully understood, therefore we have limited information. 
 
@@ -678,9 +691,7 @@ _Most breast cancer is sporadic (90%-95%), with only 5% to 10% of patients havin
 </details>
 &nbsp;
 
-Breast cancer is the most frequently diagnosed cancer among women in the US and remains a leading cause of cancer death worldwide. While 5–10% of cases can be traced to inherited mutations, the vast majority (90–95%) are sporadic, shaped by a complex interplay of hormones, environment, and lifestyle.
-
-From 2010 to 2021, the age-standardized YLL rate declined from 276 -> 239 per 100k (−13%), showing progress in early detection and treatment. Yet the absolute YLL burden actually increased, from 1.18M -> 1.22M, reflecting population growth and aging.
+Breast cancer is the most frequently diagnosed cancer among women in the US and remains a leading cause of cancer death worldwide. While 5–10% of cases can be traced to inherited mutations, the vast majority (90–95%) are sporadic, shaped by a complex interplay of hormones, environment, and lifestyle. From 2010 to 2021, the age-standardized YLL rate declined from 276 → 239 per 100k (−13%), showing progress in early detection and treatment.
 
 Unfortunately, breast cancer lacks clear, dominant risk factors. The evidence is relatively weak and diffused:
 
@@ -729,14 +740,12 @@ _Diabetes mellitus (DM) is a chronic metabolic disorder characterized by persist
 </details>
 &nbsp;
 
-Type 2 diabetes is the quintessential lifestyle-driven chronic disease. It develops when the body can no longer use insulin effectively, leading to persistent high blood sugar that silently damages blood vessels, kidneys, eyes, and nerves. Beyond its direct complications, diabetes multiplies the risk of cardiovascular disease, making it one of the most important drivers of premature mortality in the US.
-
-From 2010 to 2021, the age-standardized YLL rate fell from 298 -> 259 per 100k (−13%). This reflects progress in diagnosis, treatment, and awareness. Yet the absolute burden still climbed by 8%, from 1.33M -> 1.43M YLLs, as more Americans entered high-risk categories of obesity, sedentary lifestyle, and aging. Diabetes today is less deadly per person than a decade ago, but it’s affecting more people overall.
+Type 2 diabetes is the quintessential lifestyle-driven chronic disease. It develops when the body can no longer use insulin effectively, leading to persistent high blood sugar that silently damages blood vessels, kidneys, eyes, and nerves. Beyond its direct complications, diabetes multiplies the risk of cardiovascular disease, making it one of the most important drivers of premature mortality in the US. From 2010 to 2021, the age-standardized YLL rate fell from 298 → 259 per 100k (−13%), reflecting progress in diagnosis, treatment, and awareness.
 
 The drivers of Type 2 diabetes are unusually well defined:
 
 - High body-mass index (39k DALYS, strong evidence).
-- Particule matter pollution and smoking (moderate evidence)
+- Particulate matter pollution and smoking (moderate evidence)
 
 Behavioral risks; smoking, low physical activity, diets low in fiber/whole grains, and consumption of processed meats and sugary drinks collectively account for tens of thousands of DALYs.
 
@@ -779,9 +788,7 @@ _Opioid use disorder (OUD) is defined as the chronic use of opioids that causes 
 </details>
 &nbsp;
 
-Opioid use disorder (OUD) is not driven by diet, blood pressure, or cholesterol, it is a disease of dependency, born from pain management, social vulnerability, and the biology of addiction. OUD blurs the line between medical treatment and illicit use, as patients prescribed opioids for pain can find themselves trapped in cycles of tolerance, craving, and withdrawal.
-
-From 2010 to 2021, OUD became one of the most alarming public health crises in the US. The age-standardized YLL rate more than doubled, from 363 -> 772 per 100k (+112%). In absolute terms, the burden skyrocketed from 1.18M -> 2.63M YLLs, the sharpest increase among the major causes of death analyzed here.
+Opioid use disorder (OUD) is not driven by diet, blood pressure, or cholesterol, it is a disease of dependency, born from pain management, social vulnerability, and the biology of addiction. OUD blurs the line between medical treatment and illicit use, as patients prescribed opioids for pain can find themselves trapped in cycles of tolerance, craving, and withdrawal. The age-standardized YLL rate more than doubled, from 363 → 772 per 100k (+112%).
 
 For Opioid use disorder, one could attribute lead risk factors as social and environmental as addiction feeds addiction and drugs had to be started to develop addiction. Further roads to addiction are medication (pain killers) and overall mental health scape routes for people. However, there is not an estimated lead factor, as we lack sufficient evidence.
 
