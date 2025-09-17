@@ -63,7 +63,7 @@ _Date Published: September 15, 2025._
 
 ### What this means for policy & practice
 
-1. Heart disease remains the top killer, while hypertensive heart disease and ischemic stroke are rising. Opioid use disorders have more than doubled in YLL rate (burden). These areas demand urgent attention to prevent further increases.
+1. Heart disease remains the top killer, while hypertensive heart disease and ischemic stroke are rising. Opioid use disorders have more than doubled. These areas demand urgent attention to prevent further increases.
 
 2. Declines in lung cancer, colorectal cancer, diabetes, and intracerebral hemorrhage show that prevention works. Sustaining anti-smoking efforts, cancer screening programs, and other proven interventions will continue this trend.
 
