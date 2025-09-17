@@ -130,13 +130,11 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 
 - **SEV (Summary Exposure Value)**: How much of the population is exposed to a risk × how strong that risk is. Reported as % change between 2010–2021.
 
-**Risk attribution**: Risk–outcome links follow GBD’s comparative risk assessment. Evidence strength is reported via Risk-Outcome Score (ROS)/stars.
-
-**Uncertainty**: Estimates include 95% uncertainty intervals (UIs). When UIs overlap, differences should be interpreted with caution. _Example: Ischemic heart disease 2021 ASMR = 78.91, but the 95% uncertainty range is (69.67–83.78)._
+**95% UIs**: Estimates include a 95% uncertainty intervals (UIs). _Example: Ischemic heart disease 2021 ASMR = 78.91, but the 95% uncertainty range is (69.67–83.78)._
 
 **PAF Tables**: _Population Attributable Fractions_ (PAFs) represent the proportion of disease burden that could be prevented if specific risk exposures were eliminated. PAFs are model-based and generally do not sum to 100% of disease burden.
 
-**PAF Rating Reference Table**: The Risk-Outcome Score (ROS) and Star Rating summarize the strength of evidence linking each risk factor to a specific disease outcome. The Risk-Outcome Score ranges from -1 to 1, where higher values indicate stronger positive associations.
+**PAF Rating Reference Table**
 
 | Risk-Outcome Score (ROS) | Star Rating | Interpretation |
 |---------------------------|-------------|----------------|
