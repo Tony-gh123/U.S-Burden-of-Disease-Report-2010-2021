@@ -2,7 +2,7 @@
 
 This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021) dataset, focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
 
-If you're not from a healthcare background, start with -> [How To Read This Report](#how-to-read-this-report)
+If you're not from a healthcare background, start with -> [How To Read This Report](#how-to-read-this-report). This primer explains ASMR, YLLs, DALYs, SEV, and PAF in simple terms!
 
 [View Portfolio](https://tony-gh123.github.io/yeral.github.io/) <br>
 [View Project](https://tony-gh123.github.io/Tracking-US-Mortality-2010-2021/)
@@ -14,31 +14,19 @@ _Date Published: September 15, 2025._
 
 ### Leading Causes of Mortality in the U.S. and Trends (2010-2021)
 
-- Ischemic heart disease: 493,159 deaths (ASMR: 78.9), down 16.5%.
-
-- COVID-19: 483,557 deaths (ASMR: 86.1), new.
-
-- Alzheimer’s disease and other dementias: 198,341 deaths (ASMR: 29.2), down 0.9%.
-
-- Chronic obstructive pulmonary disease (COPD): 198,013 deaths (ASMR: 31.3), down 5.3%.
-
-- Tracheal, bronchus, and lung cancer: 175,469 deaths (ASMR: 28.9), down 25.4%.
-
-- Ischemic stroke: 115,534 deaths (ASMR: 17.3), up 3.6%.
-
-- Colon and rectum cancer: 75,082 deaths (ASMR: 12.8), down 12.5%.
-
-- Diabetes mellitus type 2: 70,708 deaths (ASMR: 11.8), down 16.5%.
-
-- Hypertensive heart disease: 68,682 deaths (ASMR: 11.4), up 22.3%.
-
-- Intracerebral hemorrhage: 58,167 deaths (ASMR: 9.7), down 11.1%.
-
-- Opioid use disorders: 55,454 deaths (ASMR: 15.4), up 114.8%.
-
-- Breast cancer: 53,471 deaths (ASMR: 9.4), down 12.7%.
-
-- Prostate cancer: 44,029 deaths (ASMR: 6.9), down 6.9%.
+- **Ischemic heart disease**: 493,159 deaths (ASMR: 78.9), down 16.5%.
+- **COVID-19**: 483,557 deaths (ASMR: 86.1), emerged in 2020.
+- **Alzheimer’s disease and other dementias**: 198,341 deaths (ASMR: 29.2), down 0.9%.
+- **Chronic obstructive pulmonary disease (COPD)**: 198,013 deaths (ASMR: 31.3), down 5.3%.
+- **Tracheal, Bronchus, and Lung Cancer**: 175,469 deaths (ASMR: 28.9), down 25.4%.
+- **Ischemic stroke**: 115,534 deaths (ASMR: 17.3), up 3.6%.
+- **Colon and rectum cancer**: 75,082 deaths (ASMR: 12.8), down 12.5%.
+- **Diabetes mellitus type 2**: 70,708 deaths (ASMR: 11.8), down 16.5%.
+- **Hypertensive heart disease**: 68,682 deaths (ASMR: 11.4), up 22.3%.
+- **Intracerebral hemorrhage**: 58,167 deaths (ASMR: 9.7), down 11.1%.
+- **Opioid use disorders**: 55,454 deaths (ASMR: 15.4), up 114.8%.
+- **Breast cancer**: 53,471 deaths (ASMR: 9.4), down 12.7%.
+- **Prostate cancer**: 44,029 deaths (ASMR: 6.9), down 6.9%.
 
 <br>
 
@@ -50,26 +38,26 @@ _Date Published: September 15, 2025._
 
 <br>
 
-### Risk Factor Trends (2010–2021):
+### Risk Factor Trends (2010–2021)
 
-- Improving: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
+- **Improving**: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
 
-- Worsening: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
+- **Worsening**: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
 
-### Sex-Specific Insights:
+### Sex-Specific Insights
 
-- Men faced higher mortality from lung cancer, prostate cancer and opioid use disorders.
-- Women were disproportionately affected by breast cancer, hypertensive heart disease, and Alzheimer’s/dementia.
+- **Males** faced higher mortality from 'Tracheal, Bronchus, and Lung Cancer', Prostate Cancer and Opioid Use Disorders.
+- **Females** were disproportionately affected by Breast Cancer, Hypertensive Heart Disease, and Alzheimer’s/Dementia.
 
 ### What this means for policy & practice
 
-1. Heart disease remains the top killer, while hypertensive heart disease and ischemic stroke are rising. Opioid use disorders have more than doubled. These areas demand urgent attention to prevent further increases.
+1. Ischemic Heart Disease remains the top killer, while Hypertensive Heart Disease and Ischemic Stroke are rising. Opioid Use Disorders mortality has more than doubled. These areas demand urgent attention to prevent further increases.
 
-2. Declines in lung cancer, colorectal cancer, diabetes, and intracerebral hemorrhage show that prevention works. Sustaining anti-smoking efforts, cancer screening programs, and other proven interventions will continue this trend.
+2. Declines in 'Tracheal, Bronchus, and Lung Cancer', Colorectal Cancer, Diabetes, and Intracerebral Hemorrhage show that prevention works. Sustaining anti-smoking efforts, cancer screening programs, and other proven interventions will continue this trend.
 
-3. High blood pressure, high blood sugar, obesity, and low physical activity are all trending upward. These risk factors cut across multiple diseases, amplifying the burden. Addressing them will reduce future deaths.
+3. High Blood Pressure, High Blood Sugar, Obesity, and Low Physical Activity are all trending upward. These risk factors cut across multiple diseases, amplifying the burden. Addressing them will reduce future deaths.
 
-4. Men face higher mortality from prostate cancer and opioid use disorders, while women are disproportionately affected by breast cancer, hypertensive heart disease, and dementia. Policies should reflect these sex-specific differences to be most effective.
+4. Males face higher mortality from Prostate Cancer and Opioid Use Disorders, while Females are disproportionately affected by Breast Cancer, Hypertensive Heart Disease, and Alzheimer's/Dementia. Policies should reflect these sex-specific differences to be most effective.
 
 <br>
 
@@ -95,7 +83,7 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
   - [Chronic respiratory diseases](#chronic-respiratory-diseases)
     - [Chronic obstructive pulmonary disease (COPD)](#chronic-obstructive-pulmonary-disease-copd)
   - [Cancers](#cancers)
-    - [Tracheal, bronchus, and lung cancer](#tracheal-bronchus-and-lung-cancer)
+    - [Tracheal, Bronchus, and Lung Cancer](#tracheal-bronchus-and-lung-cancer)
     - [Colon and rectum cancer](#colon-and-rectum-cancer)
     - [Prostate cancer](#prostate-cancer)
     - [Breast cancer](#breast-cancer)
@@ -117,17 +105,17 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 
 - **Total Deaths**: The raw number of people who died. _Useful for planning hospital beds, workforce, budgets._
 
-- **YLLs (Years of Life Lost)**: Total years of life cut short by early death. _Example: If someone dies at 50 instead of 80, that’s 30 YLLs._ 
+- **All-Age YLLs (Years of Life Lost)**: Total years of life cut short by early death. _Example: If someone dies at 50 instead of 80, that’s 30 YLLs._ 
 
-- **YLL rate**: YLLs per 100k, age-adjusted. _Helps compare premature death burden across time and groups._
+- **Age-Standardised Rate - YLLs**: YLLs per 100k, age-adjusted. _Helps compare premature death burden across time and groups._
 
 - **DALYs (Disability-Adjusted Life Years)**: YLLs + years lived with disability. _Captures both early death and time spent in poor health._
 
 - **SEV (Summary Exposure Value)**: How much of the population is exposed to a risk × how strong that risk is. Reported as % change between 2010–2021.
 
-**95% UIs**: Estimates include a 95% uncertainty intervals (UIs). _Example: Ischemic heart disease 2021 ASMR = 78.91, but the 95% uncertainty range is (69.67–83.78)._
+- **PAFS (Population Attributable Fractions)**: represent the proportion of disease burden that could be prevented if specific risk exposures were eliminated. PAFs are model-based and generally do not sum to 100% of disease burden.
 
-**PAF Tables**: _Population Attributable Fractions_ (PAFs) represent the proportion of disease burden that could be prevented if specific risk exposures were eliminated. PAFs are model-based and generally do not sum to 100% of disease burden.
+Estimates include a 95% uncertainty intervals (UIs). _Example: Ischemic heart disease 2021 ASMR = 78.91, but the 95% uncertainty range is (69.67–83.78)._
 
 **PAF Rating Reference Table**
 
@@ -153,7 +141,7 @@ Key Highlights:
 
 - Chronic obstructive pulmonary disease (COPD): 198,013 deaths (ASMR: 31.3), down 5.3%.
 
-- Tracheal, bronchus, and lung cancer: 175,469 deaths (ASMR: 28.9), down 25.4%.
+- Tracheal, Bronchus, and Lung Cancer: 175,469 deaths (ASMR: 28.9), down 25.4%.
 
 - Ischemic stroke: 115,534 deaths (ASMR: 17.3), up 3.6%.
 
@@ -191,9 +179,9 @@ _Data extract filtered for United States, 2010–2021 (Global Burden of Disease 
 
 ## Sex Differences in Mortality
 
-- Males in the US share the same leading causes as females, but rankings differ. We observe that Lung Cancers has increased in ranking, and that Prostate Cancer & Opioid Use Disorder makes it to this list.
+- Males in the US share the same leading causes as Females, but rankings differ. We observe that 'Tracheal, Bronchus, and Lung Cancer' has increased in ranking, and that Prostate Cancer & Opioid Use Disorder makes it to this list.
 
-- Among females, Alzheimer’s disease ranks in the top three alongside ischemic heart disease and COVID-19. This pattern is consistent with sex and age-structure differences in dementia incidence and survival. Hypertensive heart disease also appears in the female top 10. 
+- Among Females, Alzheimer’s/Dementia disease ranks in the top three alongside Ischemic Heart Disease and COVID-19. Hypertensive Heart Disease also appears in the female top 10, not seen in the Male top 10 list. 
 
 <br>
 
@@ -280,7 +268,7 @@ Lifestyle factors like smoking, low physical activity, and diets low in whole gr
 | Diet low in whole grains     | Ischaemic heart disease |                 0.17 |             3 | 27100 (16900 to 36700)      | Behavioural                 |
 | High fasting plasma glucose  | Ischaemic heart disease |                 0.15 |             3 | 25900 (22300 to 29800)      | Metabolic                   |
 
-The Global Burden of Disease model estimates that 90% of IHD DALYs in 2021 could be explained by known, preventable risks. That’s both alarming and empowering, it means the disease that kills more Americans than anything else is largely within our control. 
+The Global Burden of Disease model estimates that 89.9% of IHD DALYs in 2021 could be explained by known, preventable risks. That’s both alarming and empowering, it means the disease that kills more Americans than anything else is largely within our control. 
 
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
@@ -316,7 +304,7 @@ _Strokes are classified as ischemic or hemorrhagic, with hemorrhagic strokes fur
 </details>
 &nbsp;
 
-Stroke is the fifth leading cause of death in the US, and ischemic strokes, caused by blocked blood flow to the brain, make up the vast majority of cases. Unlike ischemic heart disease, which has been trending downward, stroke has quietly inched upward. Between 2010 and 2021, the age-standardized YLL rate increased from 216 → 231 per 100k (+7%).
+Stroke is historically the fifth leading cause of death in the US, and ischemic strokes, caused by blocked blood flow to the brain, make up the vast majority of cases. Unlike ischemic heart disease, which has been trending downward, stroke has quietly inched upward. Between 2010 and 2021, the age-standardized YLL rate increased from 216 → 231 per 100k (+7%).
 
 So what’s behind the increase? GBD highlights a mix of metabolic and behavioral drivers:
 
@@ -419,8 +407,6 @@ When it comes to risk factors, the evidence is weak. GBD identifies several cont
 | Diet low in fibre           | Intracerebral haemorrhage |                 0    |             1 | 2700 (-776 to 5610)         | Behavioural |
 | Diet high in red meat       | Intracerebral haemorrhage |                -0.13 |             1 | -4520 (-18800 to 6290)      | Behavioural |
 
-Interestingly, some modeled associations, like diet high in red meat, show no or even negative effect, underscoring the uncertainty in current epidemiological evidence for ICH. No PAF table is available, reflecting this lack of strong, consistent risk attribution.
-
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
 
@@ -477,7 +463,7 @@ When it comes to causes, science is still catching up. The GBD framework shows o
 | High fasting plasma glucose | Alzheimer's disease and other dementias |                 0.04 |             2 | 5350 (308 to 14400)         | Metabolic   |
 | High body-mass index        | Alzheimer's disease and other dementias |                -0.07 |             1 | 2670 (-494 to 9330)         | Metabolic   |
 
-In other words, unlike heart disease or stroke, dementia doesn’t yet have clear, modifiable population-level levers in the same way. Instead, what we see is a complex interplay of age, genetics, cardiovascular health, and lifestyle.
+In other words, unlike heart disease or stroke, alzheimer's/dementia doesn’t yet have clear risk factors. Instead, what we see is a complex interplay of age, genetics, cardiovascular health, and lifestyle.
 
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
@@ -566,7 +552,7 @@ The drivers are clear and well-documented:
 | Particulate matter pollution | Tracheal, bronchus, and lung cancer |                 0.34 |             3 | 8930 (5680 to 12400)        | Environmental/ Occupational |
 | Diet low in fruits           | Tracheal, bronchus, and lung cancer |                 0.19 |             3 | 1610 (828 to 2350)          | Behavioural                 |
 
-Together, these exposures account for nearly three-quarters of the US lung cancer burden in 2021. The fact that smoking is by far the dominant risk, with an estimated 85% increase in likelihood, underscores the extraordinary impact of decades-long anti-tobacco campaigns. Clean air initiatives have also played a supporting role.
+Altogether, GBD estimates that 72.5% of Tracheal, Bronchus, and Lung Cancer can be explained by risk factors. This signals that we must continue efforts to decrease risk factors such as smoking, which, remains as the dominant single contributor.
 
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
@@ -628,7 +614,7 @@ Altogether, these exposures explain about 62% of the US CRC burden.
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
 
-| location_name            | cause_name              | 2010 (Age-Standardised Rate - YLLs)   | 2021 (Age-Standardised Rate - YLLs)   | 2010 (All-Age YLLs)             | 2021 (All-Age YLLs)             |
+| location_name            | cause_name              | 2010 (Age-Standardised Rate - YLLs)   | 2021  (Age-Standardised Rate - YLLs)   | 2010 (All-Age YLLs)             | 2021 (All-Age YLLs)             |
 |:-------------------------|:------------------------|:--------------------------------------|:--------------------------------------|:--------------------------------|:--------------------------------|
 | United States of America | Colon and rectum cancer | 327.08 (308.40-339.01)                | 294.72 (277.84-306.77)                | 1436571.3 (1346741.0-1492807.5) | 1577371.3 (1476145.3-1647316.5) |
 
@@ -788,7 +774,7 @@ _Opioid use disorder (OUD) is defined as the chronic use of opioids that causes 
 
 Opioid use disorder (OUD) is not driven by diet, blood pressure, or cholesterol, it is a disease of dependency, born from pain management, social vulnerability, and the biology of addiction. OUD blurs the line between medical treatment and illicit use, as patients prescribed opioids for pain can find themselves trapped in cycles of tolerance, craving, and withdrawal. The age-standardized YLL rate more than doubled, from 363 → 772 per 100k (+112%).
 
-For Opioid use disorder, one could attribute lead risk factors as social and environmental as addiction feeds addiction and drugs had to be started to develop addiction. Further roads to addiction are medication (pain killers) and overall mental health scape routes for people. However, there is not an estimated lead factor, as we lack sufficient evidence.
+For Opioid use disorder, one could attribute lead risk factors as social and environmental as addiction feeds addiction and drugs had to be started to develop addiction. Further roads to addiction are medication (pain killers) and overall mental health scape routes for people.
 
 Because these drivers are diffuse and socially embedded, the Global Burden of Disease framework does not assign a clean population attributable fraction (PAF) as it does for smoking or obesity. The crisis is less about biology and more about policy, prescribing practices, and social safety nets.
 
@@ -802,22 +788,22 @@ Because these drivers are diffuse and socially embedded, the Global Burden of Di
 </details>
 <br>
 
-## Risk Exposure Trends (SEV percent change)
+## Risk Exposure Trends 2010-2021
 
 Below is an excerpt outlining the percent change of each risk exposure mentioned as a factor of the diseases studied above and key highlights. 
 
-1. Exposure to particulate matter pollution fell by ~39% for both men and women, showing major progress in air pollution control.
-2. Smoking dropped by ~15%, continuing a decades-long downward trend. 
-3. Alcohol use stayed roughly the same (slight increase for women, stable for men).
-4. Fruit and vegetable intake showed little change, with slight improvement in fruit intake but stagnation in vegetables.
-5. Whole grains and dairy (milk) remain low with minimal change.
-6. Processed meat consumption decreased modestly (esp. among women), while red meat intake stayed about the same.
-7. Sugar-sweetened beverages showed no meaningful decline, remaining a persistent issue.
-8. Low physical activity increased (esp. in men, +20%), suggesting sedentary lifestyles remain a growing concern.
-9. High body-mass index (BMI) rose by ~8% overall, reinforcing obesity as a worsening driver of chronic disease.
-10. High fasting plasma glucose (+16%) and high systolic blood pressure (+39%) saw the sharpest increases, especially among women.
-11. High LDL cholesterol improved slightly (–3%), likely reflecting widespread statin use and improved treatment.
-12. Kidney dysfunction showed small increases (~4%).
+- Exposure to particulate matter pollution fell by (-39%) for both men and women, showing major progress in air pollution control.
+- Smoking dropped by (-15%), continuing a decades-long downward trend. 
+- Alcohol use stayed roughly the same (slight increase for women, stable for men).
+- Fruit and vegetable intake showed little change, with slight improvement in fruit intake but stagnation in vegetables.
+- Whole grains and dairy (milk) remain low with minimal change.
+- Processed meat consumption decreased modestly (esp. among women), while red meat intake stayed about the same.
+- Sugar-sweetened beverages showed no meaningful decline, remaining a persistent issue.
+- Low physical activity increased (esp. in men, +20%), suggesting sedentary lifestyles remain a growing concern.
+- High body-mass index (BMI) rose by (+8%) overall, reinforcing obesity as a worsening driver of chronic disease.
+- High fasting plasma glucose (+16%) and high systolic blood pressure (+39%) saw the sharpest increases, especially among women.
+- High LDL cholesterol improved slightly (–3%), likely reflecting widespread statin use and improved treatment.
+- Kidney dysfunction showed small increases (+4%).
 
 <br>
 
