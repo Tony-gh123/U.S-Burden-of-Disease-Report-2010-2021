@@ -38,26 +38,24 @@ _Date Published: September 15, 2025._
 
 <br>
 
+### Sex-Specific Insights
+
+- **Males** were disproportionately affected by 'Tracheal, Bronchus, and Lung Cancer', Prostate Cancer and Opioid Use Disorders.
+- **Females** were disproportionately affected by Breast Cancer, Hypertensive Heart Disease, and Alzheimer’s/Dementia.
+
 ### Risk Factor Trends (2010–2021)
 
 - **Improving**: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
 
 - **Worsening**: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
 
-### Sex-Specific Insights
-
-- **Males** faced higher mortality from 'Tracheal, Bronchus, and Lung Cancer', Prostate Cancer and Opioid Use Disorders.
-- **Females** were disproportionately affected by Breast Cancer, Hypertensive Heart Disease, and Alzheimer’s/Dementia.
-
 ### What this means for policy & practice
 
-1. Ischemic Heart Disease remains the top killer, while Hypertensive Heart Disease and Ischemic Stroke are rising. Opioid Use Disorders mortality has more than doubled. These areas demand urgent attention to prevent further increases.
+1. Ischemic Heart Disease remains the top killer, while Hypertensive Heart Disease and Ischemic Stroke are rising. Opioid Use Disorders mortality has more than doubled. These areas demand urgent attention to prevent further increases in mortality.
 
 2. Declines in 'Tracheal, Bronchus, and Lung Cancer', Colorectal Cancer, Diabetes, and Intracerebral Hemorrhage show that prevention works. Sustaining anti-smoking efforts, cancer screening programs, and other proven interventions will continue this trend.
 
 3. High Blood Pressure, High Blood Sugar, Obesity, and Low Physical Activity are all trending upward. These risk factors cut across multiple diseases, amplifying the burden. Addressing them will reduce future deaths.
-
-4. Males face higher mortality from Prostate Cancer and Opioid Use Disorders, while Females are disproportionately affected by Breast Cancer, Hypertensive Heart Disease, and Alzheimer's/Dementia. Policies should reflect these sex-specific differences to be most effective.
 
 <br>
 
@@ -70,7 +68,7 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 - [How To Read This Report](#how-to-read-this-report)
 - [US Cause-Specific Mortality 2010–2021](#us-cause-specific-mortality-2010–2021)
 - [Sex Differences in Mortality](#sex-differences-in-mortality)
-- [Disease Profiles & Risk Attribution](#disease-profiles--risk-attribution)
+- [Cause-Specific Mortality & Risk Attribution](#cause-specific-mortality--risk-attribution)
   - [Cardiovascular diseases](#cardiovascular-diseases)
     - [Ischemic heart disease](#ischemic-heart-disease)
     - [Ischemic stroke](#ischemic-stroke)
@@ -91,16 +89,16 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
     - [Diabetes mellitus type 2](#diabetes-mellitus-type-2)
   - [Substance use disorders](#substance-use-disorders)
     - [Opioid use disorders](#opioid-use-disorders)
-- [Risk Exposure Trends](#risk-exposure-trends-sev-percent-change)
+- [Risk Exposure Trends 2010-2021](#risk-exposure-trends-2010-2021)
 - [Citations](#citations)
 
 ## How To Read This Report
 
-**Data Source**: Global Burden of Disease (GBD 2021) US estimates, 2010–2021.
+**Data Source**: Data obtained from the Global Burden of Disease 2021 Study, grouped by US estimates 2010-2021.
 
 **Metrics**: 
 
-- **Signal**: A summary indicator showing whether a disease’s burden has improved (declined), worsened (increased), or remained unchanged over the study period.
+- **Signal**: A summary indicator showing whether a disease burden is 'Improving' (declined), 'Worsening' (increased), or remained 'Unchanged' (No significant changes) over the study period.
 
 - **ASMR (Age-Standardized Mortality Rate)**: Deaths per 100k people, adjusted for age. 
    _Example: Comparing 2010 vs 2021 heart disease risk without being skewed by an older population._
@@ -220,9 +218,9 @@ _Data extract filtered for United States (FEMALE), 2010–2021 (Global Burden of
 </details>
 <br>
 
-# Disease Profiles & Risk Attribution
+# Cause-Specific Mortality & Risk Attribution
 
-Within each of the cause-specific mortality outlined above, there are multivariate reasons as to how they develop, their associated risk exposures, and what we can do to mitigate them. In the following section I uniquely identified each of these diseases, provided a summary from the National Library of Medicine, identified their risk factors and quantified relevant public health metrics.
+In the following section, each leading cause of mortality is analyzed using a consistent framework that combines medical definitions from the National Library of Medicine, observed trends in disease burden, simple summaries of their public health significance, and the strongest risk contributors supported by quantitative evidence on disability-adjusted life years (DALYs). Included are risk factor tables that highlight the strength of association between exposures and outcomes, along with attribution estimates that show what percent of each disease is linked to preventable risks.
 
 ## Cardiovascular diseases
 
@@ -237,15 +235,15 @@ _Ischemia is defined as inadequate blood supply (circulation) to a local area du
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs fell from 1,749 → 1,490 per 100k (−15%)._
 
-Ischemic heart disease (IHD), also called coronary artery disease, is the leading cause of death in the United States and worldwide. It arises when narrowed coronary arteries restrict blood flow to the heart muscle, depriving it of oxygen. The condition can remain silent for years but often culminates in heart attacks or chronic heart failure, making it one of the most devastating and costly public health challenges. 
+Ischemic heart disease (IHD) is the leading cause of death in the United States and worldwide. It arises when narrowed coronary arteries restrict blood flow to the heart muscle, depriving it of oxygen. The condition can remain silent for years but often culminates in heart attacks or chronic heart failure, making it one of the most devastating and costly public health challenges. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
-- High systolic blood pressure (94k DALYs in 2021, very strong evidence). 
+- High systolic blood pressure (94k DALYs, very strong evidence). 
 - Kidney dysfunction (26k DALYS, strong evidence)
 - high LDL cholesterol (66k DALYS, moderate evidence)
 
@@ -262,7 +260,9 @@ Ischemic heart disease (IHD), also called coronary artery disease, is the leadin
 | Diet low in whole grains     | Ischaemic heart disease |                 0.17 |             3 | 27100 (16900 to 36700)      | Behavioural                 |
 | High fasting plasma glucose  | Ischaemic heart disease |                 0.15 |             3 | 25900 (22300 to 29800)      | Metabolic                   |
 
-*Attribution:* The Global Burden of Disease model estimates that 88.8% of IHD could be explained by known, preventable risks. That’s both alarming and empowering, it means the disease that kills more Americans than anything else is largely within our control. 
+_Note: Results for IHD risk factors are reduced by (Risk-Outcome Scores > 3) for the table above._
+
+*Attribution:* The Global Burden of Disease model estimates that 88.8% of IHD could be explained by known, preventable risks. This means that the disease that kills more Americans than anything else is largely within our control. 
 
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
@@ -298,13 +298,13 @@ _Strokes are classified as ischemic or hemorrhagic, with hemorrhagic strokes fur
 </details>
 &nbsp;
 
-Signal: <span style="color:darkred"><strong>❌ Worsening</strong></span>
+**Signal**: <span style="color:darkred"><strong>❌ Worsening</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs increased from 216 → 231 per 100k (+7%)._
 
 Stroke is historically the fifth leading cause of death in the US, and ischemic strokes, caused by blocked blood flow to the brain, make up the vast majority of cases. Unlike ischemic heart disease, which has been trending downward, stroke has quietly inched upward. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 - High LDL cholesterol (21k DALYs, moderate evidence)
 - High fasting plasma glucose (12k DALYs, moderate evidence)
@@ -320,7 +320,7 @@ Stroke is historically the fifth leading cause of death in the US, and ischemic 
 | High fasting plasma glucose | Ischaemic stroke |                 0.15 |             3 | 12400  (9590 to 15400)      | Metabolic   |
 | Diet low in fruits          | Ischaemic stroke |                 0.15 |             3 | 2060  (1090 to 3270)        | Behavioural |
 
-*Attribution:* The GBD model estimates that over three-quarters of ischemic stroke burden (78%) can be explained by these preventable risks.
+*Attribution:* The GBD model estimates that over three-quarters (78%) of ischemic stroke burden can be explained by these preventable risks.
 
 <details markdown="1">
   <summary><strong>View YLL Table</strong></summary>
@@ -355,13 +355,13 @@ _Hypertensive heart disease (HHD) refers to a constellation of structural and fu
 </details>
 &nbsp;
 
-Signal: <span style="color:darkred"><strong>❌ Worsening</strong></span>
+**Signal**: <span style="color:darkred"><strong>❌ Worsening</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs increased from 208 -> 245 per 100k (+18%)._ 
 
 Hypertensive heart disease (HHD) develops as a long-term complication of chronic high blood pressure. Unlike ischemic heart disease, which results from blocked coronary arteries, HHD stems from the heart’s constant struggle against elevated pressure, leading to structural remodeling, thickened walls, and eventual heart failure. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 The GBD framework does not currently attribute HHD to specific risk factors beyond elevated blood pressure itself. One modeled factor, non-optimal temperature, shows only weak evidence.
 
@@ -396,13 +396,13 @@ _Intracerebral hemorrhage (ICH), a subtype of stroke, is a devastating condition
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs declined from 235 -> 210 per 100k (−11%)._
 
 Intracerebral hemorrhage (ICH), bleeding directly into the brain tissue, is one of the most lethal forms of stroke, often leaving little time for effective intervention. Outcomes for ICH are generally poorer, making prevention the critical line of defense. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 - High alcohol use (4.6k DALYs, weak evidence)
 - High fasting plasma glucose (4.1k DALYs, weak evidence)
@@ -435,7 +435,7 @@ Intracerebral hemorrhage (ICH), bleeding directly into the brain tissue, is one 
 
 ### **COVID-19**
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 [7] Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment. However, some will become seriously ill and require medical attention. Older people and those with underlying medical conditions like cardiovascular disease, diabetes, chronic respiratory disease, or cancer are more likely to develop serious illness. Anyone can get sick with COVID-19 and become seriously ill or die at any age.
 
@@ -462,13 +462,13 @@ _Dementia is a general term used to describe a significant decline in cognitive 
 </details>
 &nbsp;
 
-Signal: <span style="color:darkorange"><strong>🟧 Unchanged</strong></span>
+**Signal**: <span style="color:darkorange"><strong>🟧 Unchanged</strong></span>
 
 Alzheimer’s disease and related dementias are not sudden killers like stroke or heart attack, they are slow, progressive conditions that erode memory, judgment, and independence over years. While dementia itself rarely appears as the “immediate cause” of death, it greatly increases vulnerability to infections, falls, and other complications that ultimately shorten life.
 
 In 2021, dementia accounted for an age-standardized YLLs of 356 per 100k, unchanged since 2010 (−1%). Absolute years of life lost increased by 27%, from 1.85M -> 2.34M. This rise is driven almost entirely by population aging, as more Americans live longer, more enter the age brackets where dementia is common. For women, who generally outlive men, dementia ranks even higher among causes of death.
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 - Smoking (1.5k DALYs, weak evidence)
 - High fasting plasma glucose (5.3k DALYs, weak evidence)
@@ -507,16 +507,16 @@ _Chronic obstructive pulmonary disease (COPD) is a common and treatable disease 
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs fell from 584 → 551 per 100k (−6%)._
 
 Chronic obstructive pulmonary disease (COPD) is often called a “smoker’s disease,” but it’s more accurately the long-term scarring of the lungs from years of exposure to cigarettes, polluted air, and other noxious particles. Once damage accumulates, it limits airflow permanently, leaving many patients struggling with breathlessness, recurrent infections, and in severe cases, respiratory failure. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
-- Smoking (27.8k DALYs in 2021; strong evidence)
-- Particulate matter pollution (33.2k DALYs; strong evidence)
+- Smoking (27.8k DALYs, strong evidence)
+- Particulate matter pollution (33.2k DALYs, strong evidence)
 
 **Risk Factor Table**
 
@@ -563,13 +563,13 @@ _Lung cancer or bronchogenic carcinoma refers to tumors originating in the lung 
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs dropped from 865 → 620 per 100k (−28%)._
 
 Tracheal, Bronchus, and Lung Cancer remains one of the most lethal cancer groups in the United States, historically driven by widespread tobacco use in the 20th century. Today, it continues to be a leading cause of cancer death, though recent decades have seen encouraging declines. Advances in tobacco control, cleaner air standards, and early detection have shifted trends, reducing both risk and mortality. Despite this progress, the disease still imposes a heavy burden, largely tied to modifiable risk factors like smoking and air pollution. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 - Smoking (27.7k DALYs, very strong evidence)
 - Particulate matter pollution (8.9k DALYs, moderate evidence)
@@ -618,13 +618,13 @@ _Most colon cancer is sporadic, and approximately 5 percent are due to an inheri
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs fell from 327 → 295 per 100k (−10%)._
 
 Colon and rectum cancer (CRC) is the third most commonly diagnosed cancer in the United States and the second leading cause of cancer death. Most cases develop sporadically over a decade or more, through the gradual progression from benign polyps to invasive cancer, though a small fraction arise from inherited syndromes such as Lynch syndrome or familial adenomatous polyposis. Because the disease develops slowly, timely screening and early removal of precancerous lesions are key to reducing mortality. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 - Diet low in calcium (2.1k DALYs, moderate evidence)
 - Low physical activity (1.3k DALYs, moderate evidence)
@@ -681,13 +681,13 @@ _Prostate cancer is an adenocarcinoma as it develops primarily from the glandula
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs fell from 123 → 114 per 100k (−7%)._
 
 Prostate cancer is one of the most common cancers affecting men worldwide and a leading cause of cancer-related death in the United States. While it often remains localized and slow-growing for many years, advanced cases can metastasize, particularly to the bones and lymph nodes, leading to significant health burden. Despite its prevalence, the precise risk factors behind prostate cancer are not fully understood, which complicates prevention strategies. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 | Risk Name           | Outcome Name    |   Risk-Outcome Score |   Star Rating | 2021 DALYS (in thousands)   | Risk Type   |
 |:--------------------|:----------------|---------------------:|--------------:|:----------------------------|:------------|
@@ -716,13 +716,13 @@ _Most breast cancer is sporadic (90%-95%), with only 5% to 10% of patients havin
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs declined from 276 → 239 per 100k (−13%)._
 
 Breast cancer is the most frequently diagnosed cancer among women in the US and remains a leading cause of cancer death worldwide. While 5–10% of cases can be traced to inherited mutations, the vast majority (90–95%) are sporadic, shaped by a complex interplay of hormones, environment, and lifestyle. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 - Smoking (310 DALYs, weak evidence)
 - Diet high in red meat (2.5k DALYs, weak evidence)
@@ -771,13 +771,13 @@ _Diabetes mellitus (DM) is a chronic metabolic disorder characterized by persist
 </details>
 &nbsp;
 
-Signal: <span style="color:darkgreen"><strong>✅ Improvement</strong></span>
+**Signal**: <span style="color:darkgreen"><strong>✅ Improving</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs fell from 298 → 259 per 100k (−13%)._
 
 Type 2 diabetes is the quintessential lifestyle-driven chronic disease. It develops when the body can no longer use insulin effectively, leading to persistent high blood sugar that silently damages blood vessels, kidneys, eyes, and nerves. Beyond its direct complications, diabetes multiplies the risk of cardiovascular disease, making it one of the most important drivers of premature mortality in the US. 
 
-**Key risk contributors (GBD 2021)** 
+**Key risk contributors** 
 
 - High body-mass index (39k DALYS, strong evidence).
 - Particulate matter pollution and smoking (moderate evidence)
@@ -814,7 +814,7 @@ Behavioral risks; smoking, low physical activity, diets low in fiber/whole grain
 
 ## Substance use disorders
 
-### **Opioid use disorders**
+### **Opioid Use Disorders**
 
 <details markdown="1">
   <summary>View Medical Definition</summary>
@@ -825,13 +825,13 @@ _Opioid use disorder (OUD) is defined as the chronic use of opioids that causes 
 </details>
 &nbsp;
 
-Signal: <span style="color:darkred"><strong>❌ Worsening</strong></span>
+**Signal**: <span style="color:darkred"><strong>❌ Worsening</strong></span>
 
 - _From 2010 to 2021, the age-standardized YLLs more than doubled, from 363 → 772 per 100k (+112%)._
 
-Opioid use disorder (OUD) is not driven by diet, blood pressure, or cholesterol, it is a disease of dependency, born from pain management, social vulnerability, and the biology of addiction. OUD blurs the line between medical treatment and illicit use, as patients prescribed opioids for pain can find themselves trapped in cycles of tolerance, craving, and withdrawal. 
+Opioid Use Disorder (OUD) is not driven by diet, blood pressure, or cholesterol, it is a disease of dependency, born from pain management, social vulnerability, and the biology of addiction. OUD blurs the line between medical treatment and illicit use, as patients prescribed opioids for pain can find themselves trapped in cycles of tolerance, craving, and withdrawal. 
 
-For Opioid use disorder, one could attribute lead risk factors as social and environmental as addiction feeds addiction and drugs had to be started to develop addiction. Further roads to addiction are medication (pain killers) and overall mental health scape routes for people.
+For Opioid Use Disorder, one could attribute lead risk factors as social and environmental as addiction feeds addiction and drugs had to be started to develop addiction. Further roads to addiction are medication (pain killers) and overall mental health scape routes for people.
 
 Because these drivers are diffuse and socially embedded, the Global Burden of Disease framework does not assign a clean population attributable fraction (PAF) as it does for smoking or obesity. The crisis is less about biology and more about policy, prescribing practices, and social safety nets.
 
