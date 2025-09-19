@@ -5,7 +5,7 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 Provided is an executive summary followed by a more detailed report. The [How To Read This Report](#how-to-read-this-report) primer explains key metrics such as ASMR, YLLs, DALYs, SEV, and PAF in simple terms!
 
 [View Portfolio](https://tony-gh123.github.io/yeral.github.io/) <br>
-[View Project](https://tony-gh123.github.io/Tracking-US-Mortality-2010-2021/)
+[View Project](https://tony-gh123.github.io/U.S-Burden-of-Disease-Report-2010-2021/)
 
 _By Antony Guillen Hernandez._ <br>
 _Date Published: September 15, 2025._
