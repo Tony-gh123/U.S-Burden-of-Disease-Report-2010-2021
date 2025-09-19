@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# Tracking U.S. Mortality (2010–2021): Causes, Risks, and Policy Insights. 
+# U.S. Burden of Disease Report (2010–2021): Cause-Specific Morality, Risk Factors, and Policy Insights. 
 
 This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021) dataset, focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
 
-If you're not from a healthcare background, start with -> [How To Read This Report](#how-to-read-this-report). This section explains ASMR, YLLs, DALYs, SEV, and PAF in simple terms!
+Provided is an executive summary followed by a more detailed report. The [How To Read This Report](#how-to-read-this-report) primer explains key metrics such as ASMR, YLLs, DALYs, SEV, and PAF in simple terms!
 
 [Return to Portfolio](https://tony-gh123.github.io/yeral.github.io/) <br>
 [View Github Repository](https://github.com/Tony-gh123/Tracking-US-Mortality-2010-2021)
@@ -62,8 +62,6 @@ _Date Published: September 15, 2025._
 
 3. High Blood Pressure, High Blood Sugar, Obesity, and Low Physical Activity are all trending upward. These risk factors cut across multiple diseases, amplifying the burden. Addressing them will reduce future deaths.
 
-<br>
-
 # United States Burden of Disease
 
 This report highlights U.S findings from the Global Burden of Disease 2021 study (GBD 2021) dataset, focusing on understanding current mortality rates, cause-specific mortality, and associated risk factors for men and women across all ages.
@@ -102,8 +100,6 @@ This report highlights U.S findings from the Global Burden of Disease 2021 study
 **Data Source**: Data obtained from the Global Burden of Disease 2021 Study, grouped by US estimates 2010-2021.
 
 **Metrics**: 
-
-- **Signal**: A summary indicator showing whether a disease burden is 'Improving' (declined), 'Worsening' (increased), or remained 'Unchanged' (No significant changes) over the study period.
 
 - **ASMR (Age-Standardized Mortality Rate)**: Deaths per 100k people, adjusted for age. 
    _Example: Comparing 2010 vs 2021 heart disease risk without being skewed by an older population._
@@ -780,7 +776,7 @@ _Diabetes mellitus (DM) is a chronic metabolic disorder characterized by persist
 
 - _From 2010 to 2021, the age-standardized YLLs fell from 298 → 259 per 100k (−13%)._
 
-Type 2 diabetes is the quintessential lifestyle-driven chronic disease. It develops when the body can no longer use insulin effectively, leading to persistent high blood sugar that silently damages blood vessels, kidneys, eyes, and nerves. Beyond its direct complications, diabetes multiplies the risk of cardiovascular disease, making it one of the most important drivers of premature mortality in the US. 
+Type 2 diabetes is the quintessential lifestyle-driven chronic disease. It develops when the body can no longer use insulin effectively, leading to persistent high blood sugar that silently damages blood vessels, kidneys, eyes, and nerves. Beyond its direct complications, diabetes multiplies the risk of cardiovascular disease, making it one of the largest drivers of premature mortality in the US. 
 
 **Key risk contributors** 
 
@@ -912,7 +908,7 @@ Below is an excerpt outlining the percent change of each risk exposure mentioned
 
 6. Rajashekar D, Liang JW. Intracerebral Hemorrhage. [Updated 2023 Feb 6]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK553103/ 
 
-7. World Health Organization. “Coronavirus Disease (COVID-19).” World Health Organization, 2025, www.who.int/health-topics/coronavirus#tab=tab_1. 
+7. https://www.who.int/health-topics/coronavirus#tab=tab_1 
 
 8. Kumar A, Sidhu J, Lui F, et al. Alzheimer Disease. [Updated 2024 Feb 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK499922/ 
 
