@@ -903,7 +903,7 @@ Below is an excerpt outlining the percent change of each risk exposure mentioned
 
 6. Rajashekar D, Liang JW. Intracerebral Hemorrhage. [Updated 2023 Feb 6]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK553103/ 
 
-7. https://www.who.int/health-topics/coronavirus#tab=tab_1 
+7. “Coronavirus.” World Health Organization, World Health Organization, www.who.int/health-topics/coronavirus#tab=tab_1. Accessed 24 Sept. 2025. 
 
 8. Kumar A, Sidhu J, Lui F, et al. Alzheimer Disease. [Updated 2024 Feb 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK499922/ 
 
