@@ -45,8 +45,9 @@ _Date Published: September 15, 2025._
 
 ### Sex-Specific Insights
 
-- **Males** were disproportionately affected by 'Tracheal, Bronchus, and Lung Cancer', Prostate Cancer and Opioid Use Disorders.
-- **Females** were disproportionately affected by Breast Cancer, Hypertensive Heart Disease, and Alzheimer’s/Dementia.
+- Among Females, Alzheimer’s/Dementia disease ranks in the top three alongside Ischemic Heart Disease and COVID-19. Hypertensive Heart Disease also appears in the female top 10, not seen in the Male top 10 list. 
+
+- Males in the US share the same leading causes as Females, but rankings differ. We observe that 'Tracheal, Bronchus, and Lung Cancer' has increased in ranking, and that Prostate Cancer & Opioid Use Disorder makes it to this list.
 
 <br>
 
@@ -56,9 +57,9 @@ _Date Published: September 15, 2025._
 
 ### Risk Factor Trends (2010–2021)
 
-- **Decreasing in Risk Exposure**: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
+- **Decreasing**: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
 
-- **Increasing in Risk Exposure**: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
+- **Increasing**: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
 
 <br>
 
@@ -183,12 +184,6 @@ _Data extract filtered for United States, 2010–2021 (Global Burden of Disease 
 - Males in the US share the same leading causes as Females, but rankings differ. We observe that 'Tracheal, Bronchus, and Lung Cancer' has increased in ranking, and that Prostate Cancer & Opioid Use Disorder makes it to this list.
 
 - Among Females, Alzheimer’s/Dementia disease ranks in the top three alongside Ischemic Heart Disease and COVID-19. Hypertensive Heart Disease also appears in the female top 10, not seen in the Male top 10 list. 
-
-<br>
-
-![male_vs_female_mortality](images/male_vs_female_mortality.png)
-
-<br>
 
 <details markdown="1">
   <summary><strong>View Male Mortality Table</strong></summary>
@@ -874,10 +869,6 @@ Below is an excerpt outlining the percent change of each risk exposure mentioned
 - High fasting plasma glucose (+16%) and high systolic blood pressure (+39%) saw the sharpest increases, especially among women.
 - High LDL cholesterol improved slightly (–3%), likely reflecting widespread statin use and improved treatment.
 - Kidney dysfunction showed small increases (+4%).
-
-<br>
-
-![percentage_change_risk_factors](images/percentage_change_risk_factors.png)
 
 <details markdown="1">
   <summary><strong>View Risk Factors Table</strong></summary>
