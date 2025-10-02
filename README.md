@@ -45,7 +45,7 @@ _Date Published: September 15, 2025._
 
 <br>
 
-<img src=images/male_vs_female_mortality.png width="900">
+<img src="images/male_vs_female_mortality.png" width="900">
 
 <br>
 
@@ -57,7 +57,7 @@ _Date Published: September 15, 2025._
 
 <br>
 
-<img src=images/percentage_change_risk_factors.png width="900">
+<img src="images/percentage_change_risk_factors.png" width="900">
 
 <br>
 
