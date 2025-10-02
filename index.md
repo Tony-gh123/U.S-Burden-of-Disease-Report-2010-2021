@@ -48,15 +48,27 @@ _Date Published: September 15, 2025._
 - **Males** were disproportionately affected by 'Tracheal, Bronchus, and Lung Cancer', Prostate Cancer and Opioid Use Disorders.
 - **Females** were disproportionately affected by Breast Cancer, Hypertensive Heart Disease, and Alzheimer’s/Dementia.
 
+<br>
+
+<img src=images/male_vs_female_mortality.png width="900">
+
+<br>
+
 ### Risk Factor Trends (2010–2021)
 
-- **Improving**: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
+- **Decreasing in Risk Exposure**: Particulate matter pollution (SEV: –39%), smoking (SEV: –15%), LDL cholesterol (SEV: –3%).
 
-- **Worsening**: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
+- **Increasing in Risk Exposure**: High systolic blood pressure (SEV: +39%), high fasting plasma glucose (SEV: +16%), high BMI (SEV: +8%), low physical activity (SEV: +20% in men), kidney dysfunction (SEV: +4%).
+
+<br>
+
+<img src=images/percentage_change_risk_factors.png width="900">
+
+<br>
 
 ### What this means for policy & practice
 
-1. Ischemic Heart Disease remains the top killer, while Hypertensive Heart Disease and Ischemic Stroke are rising. Opioid Use Disorders mortality has more than doubled. These areas demand urgent attention to prevent further increases in mortality.
+1. Ischemic Heart Disease remains the top cause of mortality, while Hypertensive Heart Disease and Ischemic Stroke are rising. Opioid Use Disorders mortality has more than doubled. These areas demand urgent attention to prevent further increases in mortality.
 
 2. Declines in 'Tracheal, Bronchus, and Lung Cancer', Colorectal Cancer, Diabetes, and Intracerebral Hemorrhage show that prevention works. Sustaining anti-smoking efforts, cancer screening programs, and other proven interventions will continue this trend.
 
